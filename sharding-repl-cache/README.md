@@ -7,8 +7,13 @@ docker compose up -d
 ```
 
 Инициализация. Запускать последний, который в директории sharding-repl-cache
- 
-```shell
+
+
+```powershell
+.\scripts\mongo-init.ps1
+```
+
+```bash
 ./scripts/mongo-init.sh
 ```
 
